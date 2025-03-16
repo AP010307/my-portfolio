@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on Allen Pham</title>
+    <link>http://localhost:56383/tags/life/</link>
+    <description>Recent content in Life on Allen Pham</description>
+    <image>
+      <title>Allen Pham</title>
+      <url>http://localhost:56383/logo.png</url>
+      <link>http://localhost:56383/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Mar 2025 14:31:55 -0700</lastBuildDate>
+    <atom:link href="http://localhost:56383/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:56383/blogs/</link>
+      <pubDate>Sat, 15 Mar 2025 14:31:55 -0700</pubDate>
+      <guid>http://localhost:56383/blogs/</guid>
+      <description>&lt;h2 id=&#34;where-my-mind-dances-with-my-fingers&#34;&gt;Where my mind dances with my fingers&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

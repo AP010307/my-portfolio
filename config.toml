@@ -1,0 +1,70 @@
+baseURL = "https://allenpham.xyz"
+languageCode = "en-us"
+title = "Allen Pham"
+theme = "PaperMod"
+enableRobotsTXT = true
+defaultContentLanguage = "en"
+
+[params]
+  author = "Allen Pham"
+  description = "Welcome to my portfolio"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  showReadingTime = true
+  showShareButtons = true
+  showToc = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+  showPostNavLinks = true
+  comments = false
+  images = ["logo.png"]
+
+[params.homeInfoParams]
+  title = "Hello, I am Allen Pham"
+  content = "I am an Electrical Engineering student, previously Chemical and Biological Engineering student at the Univeristity of British Columbia. Currently I am  with a student team building a lunar water purification system and a member of UBC Supermileage where I develop racing strategies for the team."
+  image = "logo.png"
+  showSocialIcons = true
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:allen.p.parsec@gmail.com"
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/AP010307"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/allen-pham-636302216"
+[[params.socialIcons]]
+  name = "phone"
+  url = "tel:+13658887051"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/Electrical_Engineering_resume__newest.pdf"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blogs/"
+    weight = 4
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

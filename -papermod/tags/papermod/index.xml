@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod on Allen Pham</title>
+    <link>http://localhost:1313/tags/papermod/</link>
+    <description>Recent content in PaperMod on Allen Pham</description>
+    <image>
+      <title>Allen Pham</title>
+      <url>http://localhost:1313/logo.png</url>
+      <link>http://localhost:1313/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Mar 2025 16:46:16 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First friend to leave the server</title>
+      <link>http://localhost:1313/blogs/first_friend_to_leave_the_server/</link>
+      <pubDate>Fri, 14 Mar 2025 16:46:16 -0800</pubDate>
+      <guid>http://localhost:1313/blogs/first_friend_to_leave_the_server/</guid>
+      <description>&lt;p&gt;When you attended your first friend&amp;rsquo;s funeral, you questioned yourself &amp;ldquo;Have I done enough for what you believe ?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Як гартувалася сталь !,</title>
+      <link>http://localhost:1313/blogs/%D1%8F%D0%BA-%D0%B3%D0%B0%D1%80%D1%82%D1%83%D0%B2%D0%B0%D0%BB%D0%B0%D1%81%D1%8F-%D1%81%D1%82%D0%B0%D0%BB%D1%8C-/</link>
+      <pubDate>Fri, 14 Mar 2025 16:46:16 -0800</pubDate>
+      <guid>http://localhost:1313/blogs/%D1%8F%D0%BA-%D0%B3%D0%B0%D1%80%D1%82%D1%83%D0%B2%D0%B0%D0%BB%D0%B0%D1%81%D1%8F-%D1%81%D1%82%D0%B0%D0%BB%D1%8C-/</guid>
+      <description>&lt;p&gt;Do you believe in faith?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RISC Machine</title>
+      <link>http://localhost:1313/projects/risc_machine/</link>
+      <pubDate>Fri, 14 Feb 2025 16:46:16 -0800</pubDate>
+      <guid>http://localhost:1313/projects/risc_machine/</guid>
+      <description>&lt;p&gt;A SystemVerilog and ARM assembly project that creates a simple computer with basic arithmetics and memories.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Signal Generator</title>
+      <link>http://localhost:1313/projects/signal_generator/</link>
+      <pubDate>Sat, 08 Mar 2025 16:46:16 -0800</pubDate>
+      <guid>http://localhost:1313/projects/signal_generator/</guid>
+      <description>&lt;p&gt;A signal generator PCB created using KiCad.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 10 Mar 2025 14:31:55 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;this-is-my-portfolio&#34;&gt;This is my portfolio&lt;/h2&gt;
+&lt;p&gt;This page is sharing my projects, blogs, and other things I am working on.&lt;/p&gt;
+&lt;p&gt;I love working on interdisciplinary projects and looking for new solutions combining different fields. Outside of engineering, I love racing, specifically sim racing, karting. I am also a big fan of Formula 1 and looking for opportunities to work in the motorsport industry.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

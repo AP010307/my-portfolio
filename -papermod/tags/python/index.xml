@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Allen Pham</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Allen Pham</description>
+    <image>
+      <title>Allen Pham</title>
+      <url>http://localhost:1313/logo.png</url>
+      <link>http://localhost:1313/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Mar 2025 16:46:16 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflow Oven Controller</title>
+      <link>http://localhost:1313/projects/elec_291_reflow_oven/</link>
+      <pubDate>Sat, 08 Mar 2025 16:46:16 -0800</pubDate>
+      <guid>http://localhost:1313/projects/elec_291_reflow_oven/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Reflow Oven Schematics&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/image/Project1_Schematics.png&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;I spearheaded a group of five people in an ELEC 291 project that utilized Intel&amp;rsquo;s 8051 microcontroller and assembly language to implement reflow soldering using a toaster oven.&lt;/p&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Reflow soldering was used to assemble surface-mounted-technology (SMT) devices onto printed circuit boards (PCBs). The process utilized solder paste (a mixture of solder flux and pellets with adhesive properties) to attach micro-components onto the PCBs. Once components were moderately secured on the pads, the board was placed into an oven, which was gradually heated according to a predetermined soldering profile. This profile included a customizable reflow time, reflow temperature, and soak time. During the heating process, the flux was activated, and the solder paste melted, soldering the components onto the PCB.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
